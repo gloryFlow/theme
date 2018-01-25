@@ -1,15 +1,23 @@
 {
-	 "globalColor": "dc2d30",
+	 "globalColor": "f1f2f9",
 	 "globalImage": "bg_global",
      "navigation": {
-         "backgroundColor": "3b77ff",
+         "backgroundColor": "fd5051",
          "backgroundImage": "",
+         "btnTitleColor": "ffffff",
+        	 "navTitleColor": "ffffff",
+         "btnImageColor": "ffffff",
+         "showLine": "0",
+        	 "lineColor": ""
      },
 	 "tabbar":  {
 	 	"backgroundColor": "dc2d30",
         "backgroundImage": "",
         "showLine": "0",
         "lineColor": "",
+        "dotColor": "3b93ff",
+        "badgeBgColor": "3b93ff",
+        "badgeTextColor": "ffffff",
         "lianlian": {
              "title" : "脸脸",
              "titleColor" : "ffffff",
