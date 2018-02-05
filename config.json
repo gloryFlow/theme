@@ -2,7 +2,7 @@
 	 "globalColor": "",
 	 "globalImage": "",
      "navigation": {
-         "backgroundColor": "fda300",
+         "backgroundColor": "",
          "backgroundImage": "",
          "btnTitleColor": "",
          "btnImageColor": "",
@@ -10,7 +10,7 @@
         	 "lineColor": ""
      },
 	 "tabbar":  {
-	 	"backgroundColor": "",
+	 	"backgroundColor": "fda300",
         "backgroundImage": "",
         "showLine": "0",
         "lineColor": "",
