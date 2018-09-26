@@ -11,10 +11,10 @@
         	 "lineColor": "EFF2F8"
      },
 	 "tabbar":  {
-	 	"backgroundColor": "EFF2F8",
+	 	"backgroundColor": "F6F6F6",
         "backgroundImage": "",
-        "showLine": "0",
-        "lineColor": "",
+        "showLine": "1",
+        "lineColor": "F3F3F3",
         "dotColor": "FC3F51",
         "badgeBgColor": "FC3F51",
         "badgeTextColor": "",
