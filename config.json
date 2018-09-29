@@ -12,7 +12,7 @@
      },
 	 "tabbar":  {
 	 	"backgroundColor": "EFF2F4",
-        "backgroundImage": "",
+        "backgroundImage": "bg_tabbar",
         "showLine": "1",
         "lineColor": "E9E9E9",
         "dotColor": "FC3F51",
@@ -22,22 +22,22 @@
              "title" : "消息",
              "titleColor" : "888888",
              "selectedTitleColor" : "171013",
-             "icon" : "ic_tabbar_chat",
-             "selectedIcon" : "ic_tabbar_chat_selected",
+             "icon" : "ic_tab_home",
+             "selectedIcon" : "ic_tab_home_selected",
         },
         "guangguang": {
              "title" : "好友",
              "titleColor" : "888888",
              "selectedTitleColor" : "171013",
-             "icon" : "ic_tabbar_tongxun",
-             "selectedIcon" : "ic_tabbar_tongxun_selected",
+             "icon" : "ic_tab_message",
+             "selectedIcon" : "ic_tab_message_selected",
         },
         "message": {
              "title" : "发现",
              "titleColor" : "888888",
              "selectedTitleColor" : "171013",
-             "icon" : "ic_tabbar_kuang",
-             "selectedIcon" : "ic_tabbar_kuang_selected",
+             "icon" : "ic_tab_discover",
+             "selectedIcon" : "ic_tab_discover_selected",
         },
         "shop": {
              "title" : "商家",
@@ -50,8 +50,8 @@
              "title" : "我的",
              "titleColor" : "888888",
              "selectedTitleColor" : "171013",
-             "icon" : "ic_tabbar_wode",
-             "selectedIcon" : "ic_tabbar_wode_selected",
+             "icon" : "ic_tab_profile",
+             "selectedIcon" : "ic_tab_profile_selected",
         }
   	}
 }
