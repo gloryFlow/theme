@@ -2,13 +2,13 @@
 	 "globalColor": "",
 	 "globalImage": "",
      "navigation": {
-         "backgroundColor": "f1f1f1",
+         "backgroundColor": "ffffff",
          "backgroundImage": "",
          "btnTitleColor": "171013",
          "navTitleColor": "171013",
          "btnImageColor": "171013",
-         "showLine": "0",
-        	 "lineColor": "e9e9e9"
+         "showLine": "1",
+        	 "lineColor": "f1f1f1"
      },
 	 "tabbar":  {
 	 	"backgroundColor": "EFF2F4",
