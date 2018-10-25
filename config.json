@@ -43,8 +43,8 @@
              "selectedTitleColor" : "171013",
              "iconColor" : "999999",
              "selectedIconColor" : "171013",
-             "icon" : "ic_in_tabbar_category",
-             "selectedIcon" : "ic_in_tabbar_category",
+             "icon" : "ic_in_tabbar_discory",
+             "selectedIcon" : "ic_in_tabbar_discory",
         },
         "mine": {
              "title" : "我的",
