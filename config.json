@@ -1,12 +1,13 @@
 {
 	 "globalColor": "",
 	 "globalImage": "",
+	 "statusType": "1",
      "navigation": {
-         "backgroundColor": "ffffff",
-         "backgroundImage": "",
-         "btnTitleColor": "171013",
-         "navTitleColor": "171013",
-         "btnImageColor": "171013",
+         "backgroundColor": "333537",
+         "backgroundImage": "bg_navigation",
+         "btnTitleColor": "ffffff",
+         "navTitleColor": "ffffff",
+         "btnImageColor": "ffffff",
          "showLine": "1",
         	 "lineColor": "f1f1f1"
      },
@@ -17,41 +18,34 @@
         "lineColor": "E9E9E9",
         "dotColor": "FC3F51",
         "badgeBgColor": "FC3F51",
-        "badgeTextColor": "",
-        "lianlian": {
+        "badgeTextColor": "ffffff",
+        "message": {
              "title" : "消息",
              "titleColor" : "888888",
              "selectedTitleColor" : "171013",
-             "icon" : "ic_tab_home",
-             "selectedIcon" : "ic_tab_home_selected",
+             "icon" : "ic_in_tabbar_message",
+             "selectedIcon" : "ic_in_tabbar_message",
         },
-        "guangguang": {
+        "addressbook": {
              "title" : "好友",
              "titleColor" : "888888",
              "selectedTitleColor" : "171013",
-             "icon" : "ic_tab_message",
-             "selectedIcon" : "ic_tab_message_selected",
+             "icon" : "ic_in_tabbar_category",
+             "selectedIcon" : "ic_in_tabbar_category",
         },
-        "message": {
+        "discovery": {
              "title" : "发现",
              "titleColor" : "888888",
              "selectedTitleColor" : "171013",
-             "icon" : "ic_tab_discover",
-             "selectedIcon" : "ic_tab_discover_selected",
-        },
-        "shop": {
-             "title" : "商家",
-             "titleColor" : "888888",
-             "selectedTitleColor" : "171013",
-             "icon" : "",
-             "selectedIcon" : "",
+             "icon" : "ic_in_tabbar_category",
+             "selectedIcon" : "ic_in_tabbar_category",
         },
         "mine": {
              "title" : "我的",
              "titleColor" : "888888",
              "selectedTitleColor" : "171013",
-             "icon" : "ic_tab_profile",
-             "selectedIcon" : "ic_tab_profile_selected",
+             "icon" : "ic_in_tabbar_mine",
+             "selectedIcon" : "ic_in_tabbar_mine",
         }
   	}
 }
